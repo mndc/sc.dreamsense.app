@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.dreamsense.sleepcoach",
+      "sha256_cert_fingerprints":
+      ["35:E0:B5:AB:E6:FA:52:99:50:21:83:0C:37:3C:6D:34:A2:42:21:3B:9C:66:7E:20:B3:66:02:0B:4F:5B:CB:C6"]
+    }
+  }]
